@@ -1,0 +1,2 @@
+# Channel-Estimation-OFDM-
+-Investigated the efficiency of different estimators to estimate and track channel parameters based on the Mean Squared Error (MSE) performance. The estimators employed in the simulation are LS and MMSE estimators and their performance in the transfer domain was evaluated.  -MATLAB was used for the simulation of the communication link and analyzing the error between the estimated channel parameters and actual modeled channel parameters. 
